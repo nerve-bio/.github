@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="./graphics/nerve.svg" alt="NERVE logo" width="350"/>
+  <img src="../graphics/nerve.svg" alt="NERVE logo" width="350"/>
   <br/>
   <br/>
   <p>
