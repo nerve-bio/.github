@@ -13,7 +13,7 @@
 
 
 ## Donation
-Our open-source tool for reverse vaccinology relies on donations to sustain its development and support ongoing research efforts aimed at combating infectious diseases. By contributing to our project, you help us maintain and enhance this valuable resource, ensuring its accessibility to researchers worldwide and advancing the field of vaccine development.
+Our open-source tool for reverse vaccinology depends on donations to cover the costs of the servers it relies on, as well as to support ongoing research efforts. Due to its high resource usage, your donations are essential in maintaining the tool's accessibility and ensuring it continues to be a valuable asset in the fight against infectious diseases.
 
 <a href="https://opencollective.com/webpack/donate" target="_blank">
   <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
