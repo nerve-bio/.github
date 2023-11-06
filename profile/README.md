@@ -13,8 +13,8 @@
 
 
 ## Donation
-Our open-source tool for reverse vaccinology depends on donations to cover the costs of the servers it relies on, as well as to support ongoing research efforts. Due to its high resource usage, your donations are essential in maintaining the tool's accessibility and ensuring it continues to be a valuable asset in the fight against infectious diseases.
+Our open source reverse vaccinology tool relies on donations to cover the cost of the servers it relies on and to support ongoing research efforts. Due to its higher resource consumption, your donations are essential to keep the tool accessible and to ensure that it continues to be a valuable tool in the fight against infectious diseases.
 
-<a href="https://opencollective.com/webpack/donate" target="_blank">
-  <img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width=300 />
+<a href="https://opencollective.com/nerve/donate" target="_blank">
+  <img src="https://opencollective.com/nerve/donate/button@2x.png?color=blue" width=300 />
 </a>
